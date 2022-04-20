@@ -10,6 +10,7 @@ University of Luxembourg
 - topology analysis of large biological networks
 - a new clustering algorithm
 - a website about chess openings and transpositions
+- a study of the evolution of the agreement of past participles in French
 
 ## Proficient in...
 <img src="https://www.nicepng.com/png/full/70-701932_python-logo-clipart-python-head-python-logo.png" width="200"/>
