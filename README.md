@@ -13,7 +13,7 @@ University of Luxembourg
 
 ## Proficient in...
 <img src="https://www.nicepng.com/png/full/70-701932_python-logo-clipart-python-head-python-logo.png" width="200"/>
-img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="200"/>
 
 ## Currently learning about...
 - javascript
