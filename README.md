@@ -12,7 +12,7 @@ University of Luxembourg
 - a website about chess openings and transpositions
 
 ## Proficient in...
-![Python](https://mpng.subpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg)
+![Python](https://www.nicepng.com/png/full/70-701932_python-logo-clipart-python-head-python-logo.png)
 ![Matlab](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png)
 
 ## Currently learning about...
