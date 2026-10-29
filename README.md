@@ -6,7 +6,7 @@ I'm a computational biologist developing mathematical models, machine-learning m
 
 My work focuses on combining mechanistic knowledge with experimental data to build interpretable, predictive models. My background spans systems biology, network inference, optimization, multi-omics analysis, and computational oncology.
 
-**Currently:** Head of Computational Biology at **EndoVia Therapeutics**, developing an interpretable modeling platform for personalized oncology and compound prioritization. My work includes structured neural networks, computational pharmacology, and the integration of modeling with experimental screening.
+**Currently:** Postdoctoral Researcher at **University of Luxembourg**, developing methods for topological analysis, data integration, and Bayesian learning on networks. Head of Computational Biology at **EndoVia Therapeutics**, developing an interpretable modeling platform for personalized oncology and compound prioritization.
 
 ## Scientific software
 
@@ -25,7 +25,7 @@ It combines prior network knowledge with experimental perturbation data to estim
 
 ### [FALCON — Fast Contextualization of Logical Networks](https://github.com/sysbiolux/FALCON)
 
-A MATLAB toolbox I co-developed for calibrating large-scale logical models of signaling pathways against experimental data.
+My PhD project: A MATLAB toolbox for calibrating large-scale logical models of signaling pathways against experimental data.
 
 FALCON provides optimization and regularization methods to contextualize prior-knowledge networks and investigate cell-specific signaling mechanisms.
 
@@ -84,5 +84,3 @@ Combines sky maps, light curves, anomaly scores, and object exploration in a bro
 ## Contact
 
 **Email:** [seb@delandtsheer.com](mailto:seb@delandtsheer.com)
-
-I'm interested in computational approaches that combine biological interpretability, methodological rigor, and practical predictive value.
